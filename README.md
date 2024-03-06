@@ -6,7 +6,7 @@ I am very interested in all things tech, including software engineering, data sc
 
 I am based in the UK but I am open to opportunities worldwide!
 
-<img src="https://github.com/Minhaj-A1/Minhaj-A1/assets/83793815/6ac32021-63f7-4e26-af07-6b6fa7e39f7f" width="500" height="100">
+<img src="https://github.com/Minhaj-A1/Minhaj-A1/assets/83793815/6ac32021-63f7-4e26-af07-6b6fa7e39f7f" width="500" height="300">
 
 #### ⚡ Recent Projects
 The most recent project I have completed is a data science project which involves conducting sentiment and similarity analysis. I have created a repo on it so make sure to check it out!
