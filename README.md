@@ -6,10 +6,16 @@ I am very interested in all things tech, including software engineering, data sc
 
 I am based in the UK but I am open to opportunities worldwide!
 
+![image](https://github.com/Minhaj-A1/Minhaj-A1/assets/83793815/6ac32021-63f7-4e26-af07-6b6fa7e39f7f)
+
 #### ⚡ Recent Projects
 The most recent project I have completed is a data science project which involves conducting sentiment and similarity analysis. I have created a repo on it so make sure to check it out!
 
-I am most familiar with Python as a programming lanagugae but I have also used some other languages during my degree including C++, MATLAB, and Fortran (I know, very obsolete)!
+I am most familiar with Python as a programming language but I have also used some other languages during my degree including C++, MATLAB, and Fortran (I know, very obsolete)!
+
+I am also currently learning SQL and hope to be learning many more techy things in the near future!
+
+![image](https://github.com/Minhaj-A1/Minhaj-A1/assets/83793815/63c76905-f0c7-4b78-9e63-8094fe699046)
 
 <!--
 **Minhaj-A1/Minhaj-A1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
