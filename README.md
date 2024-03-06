@@ -2,7 +2,7 @@
 
 #### 🤔 A bit about me
 I am a graduate from the University of Cambridge with a Masters in Aerospace and Mechanical Engineering. With an ever evolving digital world, I am keen on kickstarting my career in tech and have recently completed HyperionDev's Data Science bootcamp!
-I am very interested in all things tech, including software engineering, data science, machine learning and also Artifical Intelligence. 
+I am very interested in all things tech, including software engineering, data science, machine learning and Artifical Intelligence. 
 
 I am based in the UK but I am open to opportunities worldwide!
 
