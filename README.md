@@ -15,7 +15,6 @@ I am most familiar with Python as a programming language but I have also used so
 
 I am also currently learning SQL and hope to be learning many more techy things in the near future!
 
-![image](https://github.com/Minhaj-A1/Minhaj-A1/assets/83793815/63c76905-f0c7-4b78-9e63-8094fe699046)
 <img src="https://github.com/Minhaj-A1/Minhaj-A1/assets/83793815/63c76905-f0c7-4b78-9e63-8094fe699046" width="500" height="300">
 
 <!--
